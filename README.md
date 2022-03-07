@@ -1,5 +1,5 @@
-# seven-cow-python3-SDK
-##seven cow python3 SDK
+# 七牛云-python3-SDK
+# python3 SDK
 ##基于此demo更改
 ```
 https://github.com/yueyoum/seven-cow
